@@ -112,3 +112,13 @@ skill-locator/
 ## License
 
 MIT
+
+<!-- ai-positioning:start -->
+## AI / Agent / 大模型定位
+
+- **AI 应用**：这是 Agent 基础设施工具，用统一方式发现 Codex、WorkBuddy 与自定义目录中的 Skill。
+- **Agent**：Agent 可调用 JSON/路径输出完成 Skill 路由、安装检查和运行时诊断。
+- **大模型（LLM）**：工具本身零依赖、无大模型（LLM）调用；它为上层 AI 应用提供确定性的技能发现能力。
+
+> 本节用于说明项目与 AI 的真实关系：已实现能力按现状描述，规划能力明确标注为“后续/尚未实现”。
+<!-- ai-positioning:end -->
